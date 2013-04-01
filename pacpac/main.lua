@@ -4,7 +4,7 @@
      There are many pac-man clones. This one is mine.
   ]]
 
-local Character = require('Character')
+local Character = require('character')
 local draw = require('draw')
 local events = require('events')
 local levelreader = require('levelreader')
